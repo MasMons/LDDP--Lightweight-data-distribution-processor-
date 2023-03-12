@@ -87,8 +87,8 @@ pm2 start  程序名称 --watch
 * 服务器放行对应端口，默认初始端口：80
 
 ### 5. 问题反馈
-* [LDDP频道TG](https://t.me/+aybtHHjUmDxhODE9)
-* [LDDP交流群TG](https://t.me/+qMDzOLOp_w1lZDI9)
+* [LDDP交流群TG](https://t.me/+aybtHHjUmDxhODE9)
+* [LDDP频道TG](https://t.me/+qMDzOLOp_w1lZDI9)
 
 ### 6. 版权信息
 LDDP 允许非商业行为免费使用，若需完整版请支持购买LDDP订阅高级版，支持开发者团队持续更新。
